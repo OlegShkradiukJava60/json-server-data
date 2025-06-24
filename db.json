@@ -791,14 +791,6 @@
       "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/68.jpg",
       "salary": 15200,
       "birthDate": "1993-09-17"
-    },
-    {
-      "id": "24975afc-caf0-42bf-9812-a6401b945f88",
-      "department": "Management",
-      "fullName": "Ana Bergstrom",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/91.jpg",
-      "salary": 32200,
-      "birthDate": "1961-06-24"
     }
   ]
 }
