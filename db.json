@@ -46,15 +46,6 @@
       "userId": "ADMIN"
     },
     {
-      "id": "72dff3f6-f760-49b2-b2ba-07fe7d367736",
-      "department": "Audit",
-      "fullName": "Woodrow Rohan",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/86.jpg",
-      "salary": 12000,
-      "birthDate": "1981-07-10",
-      "userId": "ADMIN"
-    },
-    {
       "id": "a2a9a2cf-ac58-411c-8d8e-4cab267599c2",
       "department": "Accounting",
       "fullName": "Leland Lubowitz",
@@ -613,15 +604,6 @@
       "userId": "ADMIN"
     },
     {
-      "id": "093cd62f-386a-4d92-8506-e00e4b3b13de",
-      "department": "Accounting",
-      "fullName": "Nettie Kuvalis",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/51.jpg",
-      "salary": 21900,
-      "birthDate": "1955-07-03",
-      "userId": "ADMIN"
-    },
-    {
       "id": "56709704-ed41-4ded-bcb9-6ba3dc314296",
       "department": "Audit",
       "fullName": "Clifford Lakin",
@@ -772,87 +754,6 @@
       "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/31.jpg",
       "salary": 45000,
       "birthDate": "1953-09-19",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "d6d02d6b-bde9-4b83-abd4-5839b1308b44",
-      "department": "QA",
-      "fullName": "Craig Roberts V",
-      "avatar": "https://avatars.githubusercontent.com/u/37953320",
-      "salary": 41300,
-      "birthDate": "1960-08-01",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "0878293e-e49b-49bf-9874-d61939937260",
-      "department": "Management",
-      "fullName": "Martin Little",
-      "avatar": "https://avatars.githubusercontent.com/u/29652856",
-      "salary": 39800,
-      "birthDate": "1994-01-02",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "5889ca27-551e-4a40-acfd-86f037319d3c",
-      "department": "Management",
-      "fullName": "Hazel Langworth Sr.",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/72.jpg",
-      "salary": 22900,
-      "birthDate": "1971-09-07",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "c5eb1c51-428b-4e68-a7eb-0f01710622eb",
-      "department": "QA",
-      "fullName": "Courtney Reichert",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/84.jpg",
-      "salary": 36700,
-      "birthDate": "1960-03-16",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "07b2facb-fcc3-4f17-82d6-ad97d93a17e4",
-      "department": "Management",
-      "fullName": "Lana Johnston",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/23.jpg",
-      "salary": 19100,
-      "birthDate": "2002-04-22",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "5e5e9029-3e1d-459b-8b70-1977c11b21f9",
-      "department": "Management",
-      "fullName": "Mr. Emmett Runte",
-      "avatar": "https://avatars.githubusercontent.com/u/38118071",
-      "salary": 44300,
-      "birthDate": "1953-08-29",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "a97fe286-d953-4e09-b25a-a75f9fa269b5",
-      "department": "Audit",
-      "fullName": "Gina Morissette",
-      "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/15.jpg",
-      "salary": 39700,
-      "birthDate": "2003-09-07",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "b0e92fe3-a662-44d2-b2dd-68f980233420",
-      "department": "Management",
-      "fullName": "Henry Kuhn",
-      "avatar": "https://avatars.githubusercontent.com/u/27557932",
-      "salary": 47300,
-      "birthDate": "2003-04-09",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "5ba8cb35-5da9-4b5a-9698-05a19c4a53ab",
-      "department": "Accounting",
-      "fullName": "Sylvia Pfannerstill",
-      "avatar": "https://avatars.githubusercontent.com/u/34667979",
-      "salary": 19600,
-      "birthDate": "1976-01-19",
       "userId": "ADMIN"
     }
   ],
